@@ -2,17 +2,16 @@
 *Team A2 Yangkun Jiao, Ben Simpson, Rishikesh Talwar, Te’ Claire 2025*
 <br>
 
-A modular, scalable prototype for promoting responsible e-waste disposal across University of Melbourne campuses. Developed in response to stakeholder feedback, this project aims to simplify the sorting of batteries and e-waste, increase user awareness, and support the university’s **Sustainability Plan 2030** goals for circularity.
+A modular, scalable prototype for promoting responsible e-waste disposal across University of Melbourne campuses. Developed in response to stakeholder feedback, this project aims to simplify the sorting of batteries and e-waste, increase user awareness, and support the university’s **Sustainability Plan 2030** goals for accessibility and circularity.
+[One Drive Storage Data](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/tclaire_student_unimelb_edu_au/EukbrHc8BVZIpEx_mHkipsQB5BqStrm7QtRnd1XLdTR9qQ?e=X5ZUhR)
 
 ## Stakeholders
-
 | **Type**   | **Stakeholders**                                                                 |
 |------------|-----------------------------------------------------------------------------------|
 | **Internal** | Campus Assist, Sustainability Team, Telstra Creator Space (TCS), Staff, PhD Students |
 | **External** | Envirostream, Ecobatt, Cleanaway, La Trobe University Staff                    |
 
 ## Stakeholder Interview Insights
-
 | **Stakeholder**                   | **Insight**                                                                                                              |
 |----------------------------------|--------------------------------------------------------------------------------------------------------------------------|
 | UoM Staff – Philip Christopher   | Walked through ServiceNow portal for e-waste ticketing. Found bin instructions unclear and support request process confusing. |
@@ -24,20 +23,19 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 | Nicholas Archon (TCS)            | Shared feedback from testing and prototyping stages.                                                                     |
 
 ## Key Observations
-
-- The e-waste disposal request is found under the general "Request" ticket in UoM's ServiceNow portal, under “Cleaning and Waste Disposal.”
-- Selecting "E-waste" allows free removal (up to one Ute load) and indicates proper recycling measures and deadlines.
-- Confidential disposal (e.g. hard drives, sensitive documents) is a separate, unclear process for users.
+- The e-waste disposal request is found under the general Request ticket in UoM's ServiceNow portal, under Cleaning and Waste Disposal.
+- Selecting E-waste allows free removal (up to one Ute load) and indicates proper recycling measures and deadlines.
+- Confidential disposal (example: hard drives, sensitive documents) is a separate, unclear process for users.
 - A map of confidential bins is available, but media like DVDs require special bulk disposal requests, often with faculty charges.
 - Guidance for filling out the request is insufficient—existing guides are generic and not step-by-step.
 - ServiceNow sends confirmation emails with ticket IDs; staff can track updates via email or the dashboard.
 
 ## Solution  - Modular e-waste hub  
-- Increase awareness (QR code, large confidential e-waste wall hubs in same locations as confidential document bins for staff access), clear visual signage. 
+- Increase awareness (E-waste wall hubs in same locations as confidential document bins for staff access), clear visual signage. 
 - Unify external Partnerships 
 - Support users in correct disposal methods  
 - Separating batteries from e-waste collection for safe disposal 
-- Alignment with Sustainability Plan 2030 (circularity, tracking) - Interface hub can track / gamify e-waste donation and support circularity.  
+- Alignment with Sustainability Plan 2030 [1] (circularity, tracking) - Interface hub can track / gamify e-waste donation and support circularity.  
 
 ## Project Goals
 - Increase clarity and accessibility around e-waste disposal.
@@ -52,11 +50,7 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 - **Battery vs E-Waste Detection**: Selection via button or image classification (future).
 - **Conveyor Belt Sorting**: Servo-controlled mechanism separates items.
 - **Signage**: Large visual cues and QR codes linking to instructions.
-- **Expandable AI**: Prepared for integration with TensorFlow/YOLOv8 computer vision models for automated classification.
-
-## One Drive The University of Melbourne UoM
-[One Drive with Data](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/tclaire_student_unimelb_edu_au/EukbrHc8BVZIpEx_mHkipsQB5BqStrm7QtRnd1XLdTR9qQ?e=X5ZUhR)
-
+- **Future: AI**: Prepare for integration with TensorFlow/YOLOv8 computer vision models for automated classification.
 
 ### Schematics 
 | **Schematics Page 1** | **Schematics Page 2** |
