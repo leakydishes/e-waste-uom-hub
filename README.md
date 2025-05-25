@@ -30,6 +30,12 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 - Guidance for filling out the request is insufficient—existing guides are generic and not step-by-step.
 - ServiceNow sends confirmation emails with ticket IDs; staff can track updates via email or the dashboard.
 
+## Challenges identified 
+- The system is not intuitive, the team witnessed redundant paths to find the correct service. Additionally, it is unclear with distinctions between services. 
+- E-waste is not a top-level category and is buried within broader menus, potentially causing users to miss it. 
+- No prompt appears to guide users when confidential items may be included in an E-waste request. 
+- The process is confusing and inefficient, especially for average or new staff unfamiliar with the portal structure and ticket request
+
 ## Solution  - Modular e-waste hub  
 - Increase awareness (E-waste wall hubs in same locations as confidential document bins for staff access), clear visual signage. 
 - Unify external Partnerships 
