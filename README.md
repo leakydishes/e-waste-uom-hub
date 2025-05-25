@@ -22,6 +22,8 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 | Emilia (Sustainability Team)     | Raised importance of staff awareness and user clarity.                                                                   |
 | Nicholas Archon (TCS)            | Shared feedback from testing and prototyping stages.                                                                     |
 
+[Stakeholder Data](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/tclaire_student_unimelb_edu_au/EjE4KijRQalAmZXtUfJTD3MBPa6C0ALeBX1RnAPV2TfKAg?e=Sjjtyy)
+
 ## Key Observations
 - The e-waste disposal request is found under the general Request ticket in UoM's ServiceNow portal, under Cleaning and Waste Disposal.
 - Selecting E-waste allows free removal (up to one Ute load) and indicates proper recycling measures and deadlines.
