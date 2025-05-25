@@ -27,6 +27,7 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 | Jobelle (Tech Staff)| Existing collection systems unclear; risks of battery misplacement.     |
 | PhD Students/Staff  | Instructions on bins unclear, hard to book disposal support.            |
 
+
 ### Changes from Feedback:
 - Improved **signage** and added **images**.
 - Enhanced **screen messaging**.
@@ -80,8 +81,31 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 - Improve enclosure for long-term deployment.
 - Final deployment guide for university-wide scale-up.
 
-## Future
 
+## Collection POD / Hub Evaluation Table
+
+| **Evaluation Criteria**               | **Weighted** | **Reason**                                                                                                                                               |
+|--------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Energy Efficiency**                | 4            | Uses sensors and servo motors efficiently; minimal power use. Manual handling greatly reduced.                                                           |
+| **Cost implications**                | 3            | Upfront cost for tech and infrastructure; long-term savings from reduced manual labour and contamination.                                               |
+| **Innovation**                       | 5            | Introduces autonomous sorting, gamification, QR-code integration, and real-time bin tracking.                                                           |
+| **Awareness (easily noticeable)**    | 4            | Highly visible portal with clear signage, screen prompts, and QR codes; improves awareness campus-wide.                                                 |
+| **Ease of implementation**           | 3            | Moderate complexity due to sensors, card system, and ServiceNow integration. Feasible with planning.                                                    |
+| **Impact / effectiveness**           | 4            | Encourages high engagement via confetti, rewards, and feedback; sorts waste accurately and securely.                                                    |
+| **Effectiveness of External Partnerships** | 3      | Partners with external battery collectors; potential to expand to other recyclers or circular providers.                                                |
+| **Impact of Accessibility**          | 4            | Accessible interface, card scanner, guided steps, visual cues, and inclusive user flow.                                                                 |
+| **Potential for circularity**        | 4            | Tracks reuse/donation, avoids contamination, supports data collection and transparency.                                                                 |
+| **Maintenance and Support**          | 3            | Needs servicing for bins and tech; sensor alerts help minimize downtime.                                                                                |
+| **Time commitment (training)**       | 4            | Minimal training required; system guides users with step-by-step instructions and automation.                                                           |
+
+---
+
+| **Weighted Total (+)** | **Weighted Total (-)** | **Final Score** |
+|------------------------|------------------------|-----------------|
+| 41                     | 0                      | **41**          |
+
+
+## Future
 | Theme | Sample Question | Suggested Answer |
 |-------|------------------|------------------|
 | Feasibility | Is large-scale rollout realistic? | Yes, due to modularity, low-cost electronics, and adaptable design. |
