@@ -143,7 +143,7 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 
 <br>
 
-## Next Proposed Phase: AI
+## Next Project Phase
 - Trained using Kaggle image dataset for battery/e-waste classification.
 - Model deployment using YOLOv8 or TechnoLynx micro-models.
 - Potential for gamified user feedback via dashboard.
@@ -155,8 +155,16 @@ A modular, scalable prototype for promoting responsible e-waste disposal across 
 - Improve enclosure for long-term deployment.
 - Final deployment guide for university wide scale-up starting in the Melbourne Connect Building Level 4 IT Department
 
-## Future
 
+### Next Steps
+#### Pilot with a bin at Melbourne Connect for Faculty of Engineering and Information Technology (FEIT) staff – 700 Swanston St, Carlton VIC 3053 Telstra Creator Space.
+| **Pilot at Telstra Creator Space** |
+|-----------------------------------------|
+| <img src="images/telstra_creator_space.png" width="650" alt="Pilot 1" /> |
+
+<br>
+
+## Future
 | **Theme**       | **Sample Question**                    | **Suggested Answer**                                                                                                                                                                                                                                                                                                               |
 |-----------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Next Steps**  | What’s next to ensure success?          | Finalise detection method (e.g. camera replacing button logic).<br>Improve enclosure design.<br>Pilot with a bin at Melbourne Connect for Faculty of Engineering and Information Technology (FEIT) staff – 700 Swanston St, Carlton VIC 3053 – and Telstra Creator Space at same location.<br>GitHub repository includes code, schematics, and guides. |
